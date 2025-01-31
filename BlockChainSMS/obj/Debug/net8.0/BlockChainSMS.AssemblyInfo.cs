@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlockChainSMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21602887959e52390f569fd98e9881996e2e245b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118680f00fc67fc3cfde86db2178ce57491ecbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlockChainSMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlockChainSMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

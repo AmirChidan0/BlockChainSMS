@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace BlockChainSMS.Entities
 {
-    internal class Account
+    public class Account
     {
+        public Account(string address)
+        {
+            Address = address;
+
+            Balance = 0;
+
+        }
+
+        public string Address { get; private set; }
+        public double Balance { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Address}: {Balance} units";
+        }
     }
 }

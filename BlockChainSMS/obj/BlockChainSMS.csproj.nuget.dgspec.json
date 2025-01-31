@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\New folder (2)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj": {}
+    "H:\\New folder (3)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj": {}
   },
   "projects": {
-    "H:\\New folder (2)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj": {
+    "H:\\New folder (3)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\New folder (2)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj",
+        "projectUniqueName": "H:\\New folder (3)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj",
         "projectName": "BlockChainSMS",
-        "projectPath": "H:\\New folder (2)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj",
+        "projectPath": "H:\\New folder (3)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS.csproj",
         "packagesPath": "C:\\Users\\BayanGP\\.nuget\\packages\\",
-        "outputPath": "H:\\New folder (2)\\BlockChainSMS\\BlockChainSMS\\BlockChainSMS\\obj\\",
+        "outputPath": "H:\\New folder (3)\\BlockChainSMS\\BlockChainSMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
